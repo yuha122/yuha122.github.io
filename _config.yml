@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yuha Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hongik UNIV [computer-science]"
+  location         : "Seoul, South Korea"
+  email            : "thisisyuhalee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
